@@ -1,5 +1,14 @@
-## Hi there 👋
-
+# Hi there 👋
+I'm Iker. I'm an Spanish stududent. I'm 16 years old and I like to develop UIs. 
+# Languages
+## Programming
+- Python +80h
+- Kotlin >20h
+- C#     >20h
+## Communication
+1. Spanish
+2. English (British/American)
+3. Italian
 <!--
 **Piker98988/Piker98988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
