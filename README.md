@@ -1,14 +1,19 @@
 ## Hi there 👋
-I'm Iker. I'm an Spanish stududent. I'm 16 years old and I like to develop UIs. 
+I'm Iker. I'm an Spanish stududent. I'm 16 years old and I develop UIs. 
+### 🔭 I’m currently working on 
+I'm learning C# MAUI while developing apps for personal use using Python.
+### ⚡ Fun fact: 
+I was a Hollow Knight speedrunner for around 6 months with a record time of 3h 32min and achieved 110% completion (out of 112%)
 # Languages
 ## Programming
 - ### Python  +80h 
 - ### Kotlin  <20h
 - ### C# MAUI <10h
-## Communication
+## 📫 How to reach me:
+- ### Discord: piik.98__
 1. ### Spanish at 100% (C2)
-2. ### English (British/American) at 90% (C1)
-3. ### Italian at 55% (B1)
+2. ### English (British/American) at 85% (C1)
+3. ### Italian at 45% (B1)
 ## Little yap about my story (not so little)
 When I started learning, I started with Python and almost completed a >100h course before my files on it were deleted. Nice.
 After that happened, I started to use GitHub but quickly fell off. Then, I found about _codewars.com_, a site in which challenges are proposed and 
