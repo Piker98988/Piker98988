@@ -5,6 +5,10 @@ I'm Iker. I'm an Spanish stududent. I'm 16 years old and I like to develop UIs.
 - ### Python  +80h 
 - ### Kotlin  <20h
 - ### C# MAUI <10h
+## Communication
+1. ### Spanish at 100% (C2)
+2. ### English (British/American) at 90% (C1)
+3. ### Italian at 55% (B1)
 ## Little yap about my story (not so little)
 When I started learning, I started with Python and almost completed a >100h course before my files on it were deleted. Nice.
 After that happened, I started to use GitHub but quickly fell off. Then, I found about _codewars.com_, a site in which challenges are proposed and 
@@ -17,10 +21,7 @@ know, the *Madrid's computing olympics*, which for those who still don't know, i
 could use whatever language you wanted, which I still think to this day why did they think it was a good idea. I finished first place of Python programmers. Which 
 was 17th place of the entire competition. Pretty neat, right? Well, right now I'm working on my C# MAUI skills to try and become better at UI design, which is
 my ultimate goal.
-## Communication
-1. Spanish
-2. English (British/American)
-3. Italian
+
 <!--
 **Piker98988/Piker98988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
