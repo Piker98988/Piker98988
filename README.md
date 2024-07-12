@@ -1,14 +1,15 @@
 ## Hi there 👋
 I'm Iker. I'm an Spanish stududent. I'm 16 years old and I develop UIs. 
 ### 🔭 I’m currently working on 
-I'm learning C# MAUI while developing apps for personal use using Python.
+I'm learning Dart to develop multiplatform apps with Flutter while developing apps for personal use using Python.
 ### ⚡ Fun fact: 
 I was a Hollow Knight speedrunner for around 6 months with a record time of 3h 32min and achieved 110% completion (out of 112%)
 # Languages
 ## Programming
 - ### Python  +80h 
 - ### Kotlin  <20h
-- ### C# MAUI <10h
+- ### Java <10h
+- ### Dart <10h
 ## 📫 How to reach me:
 - ### Discord: piik.98__
 1. ### Spanish at 100% (C2)
