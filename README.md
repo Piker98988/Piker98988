@@ -1,3 +1,5 @@
+# piker
+[![wakatime](https://wakatime.com/badge/user/bb90fd1a-ac95-4d1b-894c-b58fc6daf025.svg)](https://wakatime.com/@bb90fd1a-ac95-4d1b-894c-b58fc6daf025)
 ## Hi there 👋
 I'm Iker. I'm an Spanish stududent. I'm 16 years old and I develop UIs as well as utilities to make life easier. 
 ### 🔭 I’m currently working on 
