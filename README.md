@@ -3,12 +3,13 @@
 ## Hi there 👋
 I'm Iker. I'm an Spanish stududent. I'm 16 years old and I develop UIs as well as utilities to make life easier. 
 ### 🔭 I’m currently working on 
-I'm learning Dart to develop multiplatform apps with Flutter while developing apps for personal use using Python.
+I'm learning Rust for embedded system development while using Pandas in Python for data analysis.
 ### ⚡ Fun fact: 
 I was a Hollow Knight speedrunner for around 6 months with a record time of 3h 32min and achieved 110% completion (out of 112%)
 # Languages
 ## Programming
-- ### Python   +80h 
+- ### Python   +80h
+- ### Rust     ~35h
 - ### Kotlin   <20h
 - ### Java     <10h
 - ### Dart     ~20h
