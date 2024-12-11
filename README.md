@@ -3,16 +3,14 @@
 ## Hi there 👋
 I'm Iker. I'm a Spanish stududent. I'm 16 years old and I aspire to be a dev one day. 
 ### 🔭 I’m currently working on 
-I'm learning Rust for embedded system development while using Pandas in Python for data analysis.
+Expanding my general knowledge on coding and learning low-level system development with Rust and C/C++/C#
 ### ⚡ Fun fact: 
 I was a Hollow Knight speedrunner for around 6 months with a record time of 3h 32min and achieved 110% completion (out of 112%)
 # Languages
 ## Programming
-- ### Python   +80h
+- ### Python   +100h
 - ### Rust     ~35h
-- ### Kotlin   <20h
-- ### Java     <10h
-- ### Dart     ~20h
+- ### C#       ~15h
 ## 📫 How to reach me:
 - ### Discord:  piik.98__
 1. ### Spanish at 99% (Native)
