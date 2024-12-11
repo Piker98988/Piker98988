@@ -18,7 +18,7 @@ I was a Hollow Knight speedrunner for around 6 months with a record time of 3h 3
 3. ### Italian at 45% (B1)
 ## Little yap about my story (not so little)
 When I started learning, I started with Python and almost completed a >100h course before my files on it were deleted. Nice.
-After that happened, I started to use GitHub but quickly fell off. Then, I found about [_codewars_](codewars.com), a site in which challenges are proposed and 
+After that happened, I started to use GitHub but quickly fell off. Then, I found about [_codewars_](https://codewars.com), a site in which challenges are proposed and 
 you have to solve them, so that's basically what I did for a year until I found out about android app development with Kotlin and Android Studio.
 At first, I tried to learn Java to know about Kotlin but quickly wanted to rip my skin off because of the language. Then, I thought: 
 "Why shouldn't I start using Kotlin directly?" and that's exactly what I did. With Android Studio I used Jetpack Compose and also wanted to rip my
@@ -26,7 +26,30 @@ skin, so I knew I had to transition to another thing quickly. After all of that 
 countinue honing my skills. Next on the story was the OIM, for those who don't know, the *Olimpiada Informática de Madrid* and for those who still don't
 know, the *Madrid's computing olympics*, which for those who still don't know, its basically just a competition of programming. In this competition, you 
 could use whatever language you wanted, which I still think to this day why did they think it was a good idea. I finished first place of Python programmers. Which 
-was 17th place of the entire competition. Pretty neat, right? Well, right now I'm working on my Flutter skills and [music-utils](github.com/piker98988/music-utils) to try and become better at UI design and programming in general, which is my ultimate goal.
+was 17th place of the entire competition. Pretty neat, right? Well, finally, I will conclude saying that I have touched a little of every programming language, from Julia to C and from JavaScript to Rust. Here's my very opinionated tier list
+
+## Languages tierlist
+### S tier (top languages)
+- #### Rust
+- #### C++
+### A tier (lacking in some aspects but still comfy)
+- #### C
+- #### Python
+- #### Julia
+### B tier (mid languages like the rest, don't feel special)
+- #### Kotlin
+- #### Dart
+- #### C#
+### D tier (really don't like it but can see it used somewhere)
+- #### Java
+- #### Go
+### E tier (the worst ever created by humans)
+- #### JavaScript
+- #### TypeScript
+### Not a language tier (even they may be cool they are still not a turing complete language)
+- #### HTML
+- #### CSS
+- #### Markdown
 
 <!--
 **Piker98988/Piker98988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
