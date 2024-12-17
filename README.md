@@ -3,9 +3,9 @@
 ## Hi there 👋
 I'm Iker. I'm a Spanish stududent. I'm 16 years old and I aspire to be a dev one day. 
 ### 🔭 I’m currently working on 
-Expanding my general knowledge on coding and learning low-level system development with Rust and C/C++/C#
+Expanding my general knowledge on coding and learning low-level system development with Rust and C/C++/C# as well as writing everyday utils in Python
 ### ⚡ Fun fact: 
-I was a Hollow Knight speedrunner for around 6 months with a record time of 3h 32min and achieved 110% completion (out of 112%)
+I like birds
 # Languages
 ## Programming
 - ### Python   +100h
