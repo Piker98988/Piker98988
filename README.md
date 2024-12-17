@@ -7,16 +7,27 @@ Expanding my general knowledge on coding and learning low-level system developme
 ### ⚡ Fun fact: 
 I like birds
 # Languages
+
 ## Programming
+
 - ### Python   +100h
-- ### Rust     ~35h
-- ### C#       ~15h
-## 📫 How to reach me:
-- ### Discord:  piik.98__
+- ### C++      +20h
+- ### C#       +15h
+  
+## Not programming
+  
 1. ### Spanish at 99% (Native)
 2. ### English (British/American) at 85% (C1)
 3. ### Italian at 45% (B1)
+
+# 📫 How to reach me:
+
+- ### Discord:     piik.98__
+- ### Instagram:   piik.98__
+- ### Email:       iker.pavcur@gmail.com
+
 ## Little yap about my story (not so little)
+
 When I started learning, I started with Python and almost completed a >100h course before my files on it were deleted. Nice.
 After that happened, I started to use GitHub but quickly fell off. Then, I found about [_codewars_](https://codewars.com), a site in which challenges are proposed and 
 you have to solve them, so that's basically what I did for a year until I found out about android app development with Kotlin and Android Studio.
