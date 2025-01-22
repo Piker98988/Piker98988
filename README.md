@@ -1,7 +1,7 @@
 # piker
 [![wakatime](https://wakatime.com/badge/user/bb90fd1a-ac95-4d1b-894c-b58fc6daf025.svg)](https://wakatime.com/@bb90fd1a-ac95-4d1b-894c-b58fc6daf025?style=flat_square)
 ## Hi there 👋
-I'm Iker. I'm a Spanish stududent. I'm 16 years old and I aspire to be a dev one day. 
+I'm Iker. I'm a Spanish student. I'm 16 years old and I do things. Check them out at the repos tab 
 ### 🔭 I’m currently working on 
 Expanding my general knowledge on coding and learning low-level system development with Rust and C/C++/C# as well as writing everyday utils in Python, while developing my portfolio website.
 ### ⚡ Fun fact: 
